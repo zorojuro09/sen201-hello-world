@@ -1,5 +1,10 @@
 # SEN 201 – Python Introduction & GitHub Task
 
+## Author
+Name: Aleje Sultan
+Course: Software Engineering
+Matric NO : 24/14094
+
 ## Course Information
 - **Course Code:** SEN 201
 - **Course Title:** Software Engineering
